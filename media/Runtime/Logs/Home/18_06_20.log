@@ -1,0 +1,213 @@
+[ 2018-06-20T17:51:35+08:00 ] 192.168.0.26 /project/media/home/comment/comment.html?aid=468&cid=280&content=qqqqq
+ERR: 表达式错误:or
+
+[ 2018-06-20T17:52:42+08:00 ] 192.168.0.26 /project/media/home/comment/comment.html
+ERR: 表达式错误:or
+
+[ 2018-06-20T17:55:41+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 表达式错误:or
+
+[ 2018-06-20T18:01:02+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 表达式错误:or
+
+[ 2018-06-20T18:02:00+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 表达式错误:or
+
+[ 2018-06-20T18:03:54+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid =  )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid =  )
+
+[ 2018-06-20T18:06:28+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid =  )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid =  )
+
+[ 2018-06-20T18:08:40+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid =  )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid =  )
+
+[ 2018-06-20T18:09:34+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid =  )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid =  )
+
+[ 2018-06-20T18:12:49+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+
+[ 2018-06-20T18:13:05+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1048:Column 'message' cannot be null
+ [ SQL语句 ] : INSERT INTO `pre_portal_comment` (`status`,`uid`,`username`,`id`,`postip`,`port`,`dateline`,`message`) VALUES ('0','1295','mob_a745eead','0','192.168.0.136','80','1529489585',NULL)
+ERR: 1048:Column 'message' cannot be null
+ [ SQL语句 ] : INSERT INTO `pre_portal_comment` (`status`,`uid`,`username`,`id`,`postip`,`port`,`dateline`,`message`) VALUES ('0','1295','mob_a745eead','0','192.168.0.136','80','1529489585',NULL)
+
+[ 2018-06-20T18:14:13+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+
+[ 2018-06-20T18:16:07+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+
+[ 2018-06-20T18:16:45+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+
+[ 2018-06-20T18:17:27+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1048:Column 'message' cannot be null
+ [ SQL语句 ] : INSERT INTO `pre_portal_comment` (`status`,`uid`,`username`,`id`,`postip`,`port`,`dateline`,`message`) VALUES ('0','1295','mob_a745eead','0','192.168.0.136','80','1529489847',NULL)
+ERR: 1048:Column 'message' cannot be null
+ [ SQL语句 ] : INSERT INTO `pre_portal_comment` (`status`,`uid`,`username`,`id`,`postip`,`port`,`dateline`,`message`) VALUES ('0','1295','mob_a745eead','0','192.168.0.136','80','1529489847',NULL)
+
+[ 2018-06-20T18:17:46+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1048:Column 'message' cannot be null
+ [ SQL语句 ] : INSERT INTO `pre_portal_comment` (`status`,`uid`,`username`,`id`,`postip`,`port`,`dateline`,`message`) VALUES ('0','1295','mob_a745eead','0','192.168.0.136','80','1529489866',NULL)
+ERR: 1048:Column 'message' cannot be null
+ [ SQL语句 ] : INSERT INTO `pre_portal_comment` (`status`,`uid`,`username`,`id`,`postip`,`port`,`dateline`,`message`) VALUES ('0','1295','mob_a745eead','0','192.168.0.136','80','1529489866',NULL)
+
+[ 2018-06-20T18:17:52+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+
+[ 2018-06-20T18:18:36+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+
+[ 2018-06-20T18:19:25+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+
+[ 2018-06-20T18:19:37+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+
+[ 2018-06-20T18:20:45+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE ( aid = 468 )
+
+[ 2018-06-20T18:22:44+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '468'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '468'
+
+[ 2018-06-20T18:24:02+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '468'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '468'
+
+[ 2018-06-20T18:38:30+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+
+[ 2018-06-20T18:38:32+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+
+[ 2018-06-20T18:38:32+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+
+[ 2018-06-20T18:38:32+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+
+[ 2018-06-20T18:38:37+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+
+[ 2018-06-20T18:38:38+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+
+[ 2018-06-20T18:38:38+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+
+[ 2018-06-20T18:38:38+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+
+[ 2018-06-20T18:38:38+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '240'
+
+[ 2018-06-20T18:38:43+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+
+[ 2018-06-20T18:38:44+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+
+[ 2018-06-20T18:38:44+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+
+[ 2018-06-20T18:38:44+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+
+[ 2018-06-20T18:38:44+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+
+[ 2018-06-20T18:38:44+08:00 ] 192.168.0.136 /project/media/home/comment/comment.html
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+ERR: 1172:Result consisted of more than one row
+ [ SQL语句 ] : UPDATE `pre_portal_article_count` SET `commentnum`=commentnum+1 WHERE `aid` = '563'
+
